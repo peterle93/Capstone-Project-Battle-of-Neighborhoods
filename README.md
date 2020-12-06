@@ -1,6 +1,6 @@
 # Capstone-Project---The-Battle-of-Neighborhoods
 
-Libraries Used:
+**Libraries Used:**
 
 I use Python3 in my Jupyter Notebook:
 
