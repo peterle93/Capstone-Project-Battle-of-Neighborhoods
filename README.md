@@ -1,5 +1,7 @@
 # Capstone-Project---The-Battle-of-Neighborhoods
 
+Final Project for Coursera Data Science Capstone Project Course: Battle of Neighborhoods 
+
 **Libraries Used:**
 
 I use Python3 in my Jupyter Notebook:
@@ -13,7 +15,13 @@ I use Python3 in my Jupyter Notebook:
 7. Collections
 8. Math
 
-File Descriptions
+**File Descriptions**
 
 Week 4 - First Part of the Battle of Neighborhoods Project
 Week 5 - Final Part of the Battle of Neighborhoods Project 
+
+Week 5 
+
+**FinalCapstone-BotN-NorthYork Report.ipynb - contains the detailed report of the final project with full explainations**
+FinalCapstone-BotN-NorthYork Final.ipynb
+TorHousePrice.xlsx - dataset of toronto houses
