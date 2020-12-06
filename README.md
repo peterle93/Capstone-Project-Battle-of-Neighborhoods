@@ -23,5 +23,7 @@ Week 5 - Final Part of the Battle of Neighborhoods Project
 Week 5 
 
 **FinalCapstone-BotN-NorthYork Report.ipynb - contains the detailed report of the final project with full explainations**
+
 FinalCapstone-BotN-NorthYork Final.ipynb
+
 TorHousePrice.xlsx - dataset of toronto houses
