@@ -4,14 +4,14 @@
 
 I use Python3 in my Jupyter Notebook:
 
-Numpy
-Pandas
-Scikit Learn
-Matplotlib
-Seaborn
-Folium
-Collections
-Math
+1. Numpy
+2. Pandas
+3. Scikit Learn
+4. Matplotlib
+5. Seaborn
+6. Folium
+7. Collections
+8. Math
 
 File Descriptions
 
