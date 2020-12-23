@@ -1,10 +1,9 @@
 ## Table of Contents
 1. [Project Motivation](#motivation)
 2. [Summary of Results](#results)
-3. [Medium Blog Post](#medium)
-4. [Libraries](#libraries)
-5. [File Descriptions](#descriptions)
-6. [Acknowledgements](#acknowledgements)
+3. [Libraries](#libraries)
+4. [File Descriptions](#descriptions)
+5. [Acknowledgements](#acknowledgements)
 
 ## Project Motivation <a name="motivation"></a>
 ### Capstone-Project-The-Battle-of-Neighborhoods
@@ -20,7 +19,7 @@ This will help people to gain awareness of the area and neighborhood before movi
 ## Summary of Results <a name="results"></a>
 Determined the best neighborhoods to live in Center Toronto, which houses had the most ideal price median, schools that had the best ratings according to the neighbourhoods.  
 
-**Libraries Used:**
+## Libraries: <a name="libraries"></a>
 
 I use Python3 in my Jupyter Notebook:
 
@@ -33,7 +32,7 @@ I use Python3 in my Jupyter Notebook:
 7. Collections
 8. Math
 
-**File Descriptions**
+## File Descriptions <a name="descriptions"></a>
 
 Week 4 - First Part of the Battle of Neighborhoods Project
 Week 5 - Final Part of the Battle of Neighborhoods Project 
@@ -46,7 +45,7 @@ FinalCapstone-BotN-NorthYork Final.ipynb - notebook of the main project
 
 TorHousePrice.xlsx - dataset of toronto houses
 
-## Acknowledgements
+## Acknowledgements <a name="acknowledgements"></a>
 
 1. https://www.ibm.com/ca-en
 2. https://foursquare.com/
