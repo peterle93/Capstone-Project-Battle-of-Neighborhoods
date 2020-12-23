@@ -35,6 +35,11 @@ Week 5
 
 **FinalCapstone-BotN-NorthYork Report.ipynb - contains the detailed report of the final project with full explainations**
 
-FinalCapstone-BotN-NorthYork Final.ipynb
+FinalCapstone-BotN-NorthYork Final.ipynb - notebook of the main project
 
 TorHousePrice.xlsx - dataset of toronto houses
+
+##Acknowledgements
+
+1. https://www.ibm.com/ca-en
+2. https://foursquare.com/
